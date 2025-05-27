@@ -19,23 +19,24 @@
     --contato: #E5E5E5;
 }
 
-
-
-
 .container-grid {
     width: 80vw;
     max-width: 1400px;
     margin: 0 auto;
 }
-
+body{
+    overflow-x: hidden;
+}
 
 .banner {
     background-image: url(./IMG/Banner.png);
     height: 120vh;
     background-repeat: no-repeat;
     background-position: 0 -10;
-
-
+     
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 header {
