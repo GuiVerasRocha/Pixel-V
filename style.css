@@ -171,3 +171,17 @@ header img {
 
     background-size: 30%;
 }
+
+/* -------------Serviços--------------- */
+#Serviços{
+    margin-bottom: 120px;
+}
+
+#Serviços .titulo{
+    justify-content: center;
+    margin-bottom: 55px;
+}
+
+#Serviços h2{
+    margin-left: 5px;
+}
